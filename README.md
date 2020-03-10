@@ -1,2 +1,2 @@
-# ArtistWebsite
-Artist Website
+# JG-Website
+ 
